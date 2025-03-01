@@ -1,0 +1,499 @@
+@media only screen and (max-width: 800px) {
+    ul li {
+        display: none;
+    }
+
+    .block {
+        display: block;
+    }
+
+    .block img {
+        width: 150px;
+        height: 22px;
+
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .hamburger img {
+        width: 40px;
+        height: 40px;
+    }
+
+    ul {
+        justify-content: space-between;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 1230px) {
+    .teach {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .teach {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    .headerLeftPhoto {
+        width: 250px;
+        height: 300px;
+    }
+
+    .headerRightPhoto {
+        width: 250px;
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+    .teach {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .headerLeftPhoto {
+        width: 230px;
+        height: 280px;
+    }
+
+    .headerRightPhoto {
+        width: 230px;
+        height: 280px;
+    }
+
+    .kurs {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 940px) {
+    .teach {
+        font-size: 38px;
+        line-height: 45px;
+    }
+
+    .headerLeftPhoto {
+        width: 200px;
+        height: 250px;
+    }
+
+    .headerRightPhoto {
+        width: 200px;
+        height: 250px;
+    }
+
+    .kurs {
+        font-size: 14px;
+    }
+
+    .all {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .teach {
+        font-size: 35px;
+        line-height: 43px;
+    }
+
+    .headerLeftPhoto {
+        width: 190px;
+        height: 240px;
+    }
+
+    .headerRightPhoto {
+        width: 190px;
+        height: 240px;
+    }
+
+    .kurs {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .contentOne {
+        flex-direction: column;
+        row-gap: 50px;
+    }
+
+    .headerSocial {
+        display: block;
+
+    }
+
+    .headerLeftPhoto {
+        margin-top: 10px;
+    }
+
+    .headerLeftPhoto {
+        width: 250px;
+        height: 330px;
+    }
+
+    .headerRightPhoto {
+        width: 250px;
+        height: 330px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .teach {
+        font-size: 28px;
+        line-height: 43px;
+    }
+
+    .kurs {
+        width: 100%;
+    }
+
+    .firstBr {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 1212px) {
+    .peopleInfo {
+        width: 100%;
+    }
+
+    .teaches {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .teaches {
+        font-size: 45px;
+    }
+}
+
+@media only screen and (max-width: 1092px) {
+    .teaches {
+        font-size: 40px;
+    }
+
+    .teacherInfo {
+        line-height: 20px;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .teaches {
+        font-size: 40px;
+    }
+
+    .teacherInfo {
+        line-height: 20px;
+    }
+
+    .peopleContent {
+        flex-direction: column;
+    }
+
+    .peopleInfo {
+        text-align: center;
+    }
+
+    .cards {
+        flex-wrap: wrap;
+
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .cards {
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (max-width: 1120px) {
+    .programerImg {
+        width: 440px;
+        height: 302px;
+    }
+
+    .yourTeach {
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    .allKurs {
+        margin-top: 25px;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    .programerImg {
+        max-width: 440px;
+        min-width: 440px;
+        height: 302px;
+    }
+
+    .yourTeach {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    .allKurs {
+        margin-top: 25px;
+    }
+
+}
+
+@media only screen and (max-width: 1035px) {
+    .yourTeach {
+        line-height: 50px;
+    }
+
+    .allKurs {
+        margin-top: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 965px) {
+    .yourTeach {
+        line-height: 45px;
+        font-size: 38px;
+    }
+
+    .watchVideo {
+        font-size: 14px;
+        line-height: 25px;
+
+    }
+
+    .programerImg {
+        max-width: 380px;
+        min-width: 380px;
+        height: 290px;
+    }
+
+    .allKurs {
+        margin-top: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 897px) {
+    .teachInfo {
+        line-height: 20px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .teaching {
+        flex-direction: column;
+        gap: 50px;
+
+    }
+
+    .teachInfo {
+        text-align: center;
+        width: 100%;
+    }
+
+    .allKurs {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .teaching {
+        flex-direction: column;
+        gap: 50px;
+
+    }
+
+    .teachInfo {
+        text-align: center;
+        width: 100%;
+    }
+
+    .allKurs {
+        margin-top: 30px;
+    }
+
+    .programerImg {
+        max-width: 350px;
+        min-width: 350px;
+        height: 270px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+
+    .programerImg {
+        max-width: 300px;
+        min-width: 300px;
+        height: 230px;
+    }
+
+    .yourTeach {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .programerImg {
+        max-width: 250px;
+        min-width: 250px;
+        height: 200px;
+    }
+
+    .yourTeach {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+
+    .programerImg {
+        max-width: 230px;
+        min-width: 230px;
+        height: 190px;
+    }
+
+    .yourTeach {
+        font-size: 33px;
+    }
+}
+
+@media only screen and (max-width: 325px) {
+
+    .programerImg {
+        max-width: 200px;
+        min-width: 200px;
+        height: 160px;
+    }
+
+    .yourTeach {
+        font-size: 30px;
+    }
+
+    .allKurs {
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .full {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .full {
+        font-size: 45px;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    .full {
+        font-size: 40px;
+    }
+
+    .cardd {
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 1265px) {
+    .lastDiv {
+        left: 50%;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .lastDiv {
+        left: 45%;
+    }
+}
+
+@media only screen and (max-width: 1033px) {
+    .lastDiv {
+        left: 0%;
+        margin: auto;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 570px) {
+    .lastTitle {
+        font-size: 50px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .lastTitle {
+        font-size: 45px;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+    .lastTitle {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .tarrif {
+        width: 200px;
+    }
+
+
+}
+
+@media only screen and (max-width: 400px) {
+    .lastTitle {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .lastInfo {
+        font-size: 14px;
+    }
+
+
+}
+
+@media only screen and (max-width: 360px) {
+    .lastTitle {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .lastInfo {
+        font-size: 14px;
+    }
+
+
+}
+@media only screen and (max-width: 744px){
+    .siteContent{
+       justify-content: space-evenly;
+    }
+}
+@media only screen and (max-width: 420px){
+    .siteContent{
+       justify-content: space-around;
+    }
+}
