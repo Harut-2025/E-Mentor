@@ -1,3 +1,4 @@
+AOS.init();
 let hamburger = document.getElementById('hamburger');
 let navbar = document.getElementsByClassName('navbar')[0];
 let menu = document.getElementsByClassName('menu')[0];
